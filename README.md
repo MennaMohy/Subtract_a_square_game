@@ -28,10 +28,6 @@ The "Subtract a Square Game" is a simple two-player game where players take turn
 1. Run the script.
 2. Choose between playing with a random number of coins or entering a specific starting number.
 3. Follow the on-screen instructions to make moves, ensuring that the entered numbers adhere to the game rules.
-
+   
 ## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/Subtract-a-Square-Game.git
+https://github.com/MennaMohy/Subtract_a_square_game.git
